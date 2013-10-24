@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Christoph Bach - @chbach
+    Michael Whittaker - @michaelwhi
+    at Winfo2 - Uni Paderborn | www.upb.de/winfo2
 
 # THANKS
 
@@ -11,5 +13,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    HTML5, CSS3, JavaScript
+    PureCSS. Normalizer
