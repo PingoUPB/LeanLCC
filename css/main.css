@@ -1,0 +1,14 @@
+.canvas-field {
+    height: 400px;
+    border: 1px dotted black;
+    margin: 10px;
+}
+.canvas-field-half {
+    height: 195px;
+}
+.canvas-draggable {
+    background-color: yellow;
+    width: 100px;
+    min-height: 100px; 
+    padding: 10px;
+}
